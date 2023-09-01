@@ -3,12 +3,12 @@
 This is a MERN stack project.
 <br/>
 <hr/>
-# Language used:
-MongoDB Compass (MongoDB Tool)
-Express JS (Framework)
-React Js (For Frontend)
-Node JS (For backend)
+# Language used:<br/>
+MongoDB Compass (MongoDB Tool) <br/>
+Express JS (Framework)<br/>
+React Js (For Frontend)<br/>
+Node JS (For backend)<br/>
 
 <hr/>
-Run backend code with terminal command<b>nodemon</b>
-Run front end with the terminal command <b>npm start</b>
+Run backend code with terminal command<b>nodemon</b><br/>
+Run front end with the terminal command <b>npm start</b><br/>
